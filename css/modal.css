@@ -25,3 +25,7 @@
 .modal-title {
     font-size: 1.5 rem;
 }
+
+.modal-close {
+    cursor: pointer;
+}
