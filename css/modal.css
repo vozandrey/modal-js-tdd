@@ -30,3 +30,7 @@
 .modal-close {
     cursor: pointer;
 }
+
+.modal-body {
+    padding: 10px;
+}
