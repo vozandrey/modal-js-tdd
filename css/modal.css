@@ -34,3 +34,8 @@
 .modal-body {
     padding: 10px;
 }
+
+.modal-footer {
+    padding: 5px 10px;
+    border-top: 1px solid #eee;
+}
