@@ -6,3 +6,12 @@
     bottom: 0;
     background: rgba(0, 0, 0, .5);
 }
+
+.modal-window {
+    width: 600px;
+    border-radius: 5px;
+    background: #fff;
+    margin: 100px auto;
+    /*temp*/
+    height: 200px;
+}
