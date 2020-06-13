@@ -15,3 +15,9 @@
     /*temp*/
     height: 200px;
 }
+
+.modal-header {
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
