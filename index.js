@@ -1,2 +1,2 @@
-const myModal = $.modal();
-myModal.open();
+const modal = $.modal();
+// myModal.open();
